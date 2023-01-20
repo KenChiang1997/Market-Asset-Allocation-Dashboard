@@ -1,9 +1,9 @@
 # Abstract
 Harry Markowitz introduced modern portfolio theory in 1950 and won the Nobel Prize in Economics in 1990, but there are still many problems with this model. In this project, I built a dashboard for asset allocation with 5 different markets and applied mean-variance optimization to analyze whether it can successfully outperformance the SP500 benchmark index.
 
-The project is still updating.....
+***The project is still updating.....
 
-# **Dashboard Overview**
+# Dashboard Overview
  
 ![Screen Shot 2023-01-20 at 3 27 16 PM](https://user-images.githubusercontent.com/80143995/213640670-969823fc-f4b8-426c-9eab-f4cd72e0dfc2.png)
 
